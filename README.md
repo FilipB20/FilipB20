@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 Student @ FERIT<br>💻 Interested in artifical intelligence, application development,  hardware development<br>🔭 Otvoren za studentsku praksu u području softverskog/embedded razvoja - Open to internship opportunities in software/embedded development<br>
+🏫 Student @ FERIT<br>💻 Interested in artifical intelligence, application development,  hardware development<br>🔭 Otvoren za studentsku praksu u području softverskog ili embedded razvoja - Open to internship opportunities in software or embedded development<br>
 
 
 ## 🌐 Socials:
