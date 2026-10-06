@@ -1,9 +1,9 @@
 # 👨‍💻 Filip Bičanić
 
-Software Engineering graduate student at **FERIT Osijek**.
+Master's student in Computer Science at **FERIT Osijek**.
 
 - 🔭 Interested in: Software development, backend architecture, and hardware / embedded systems
-- 🚀 Open to: Internship opportunities, student projects, and software/hardware engineering collaborations
+- 🚀 Open to: Internship opportunities, student projects, and engineering collaborations
 - 🌱 Core stack: C#, ASP.NET Core, Java / Spring Boot, Angular, PostgreSQL, Git
 - 📫 Contact: [filobico@gmail.com](mailto:filobico@gmail.com)
 
