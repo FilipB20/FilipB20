@@ -4,7 +4,7 @@ Master's student in Computer Science at **FERIT Osijek**.
 
 - 🔭 Interested in: Software development, backend architecture, and hardware / embedded systems
 - 🚀 Open to: Internship opportunities, student projects, and engineering collaborations
-- 🌱 Core stack: C#, ASP.NET Core, Java / Spring Boot, Angular, PostgreSQL, Git
+- 🌱 Core stack: C#, Java, Spring Boot, ASP.NET Core, React, PostgreSQL, Git
 - 📫 Contact: [filobico@gmail.com](mailto:filobico@gmail.com)
 
 ---
