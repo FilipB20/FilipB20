@@ -36,6 +36,5 @@ Master's student in Computer Science at **FERIT Osijek**.
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FilipB20&show_icons=true&theme=onedark&hide_border=true&count_private=true" alt="FilipB20 Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipB20&layout=compact&theme=onedark&hide_border=true" alt="Top Langs" />
 </div>
